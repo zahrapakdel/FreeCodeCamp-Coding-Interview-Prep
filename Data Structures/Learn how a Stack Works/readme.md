@@ -1,3 +1,4 @@
+# Learn how a Stack Works
 You are probably familiar with stack of books on your table. You have likely used the undo feature of a text editor. You are also probably used to hitting the back button on your phone to go back to the previous view in your app.
 
 You know what they all have in common? They all store the data in a way so that you can traverse backwards.
